@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá! 👋
 
-<!--
-**alancc-new/alancc-new** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do 3º período de Ciência da Computação na UESPI.
 
-Here are some ideas to get you started:
+Atualmente, estou desenvolvendo minhas habilidades em programação, estruturas de dados, algoritmos e desenvolvimento de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Sobre mim
+
+- 📚 Estudante de Ciência da Computação na UESPI
+- 💻 Praticando programação e resolução de problemas
+- 🧠 Estudando estruturas de dados
+- 🚀 Buscando desenvolver projetos que unam teoria e prática
+
+## 🛠️ Tecnologias
+
+- **Linguagens:** C, C++ e JavaScript
+- **Ferramentas:** Git, GitHub, VS Code e Docker
+- **Estudando:** algoritmos, estruturas de dados, programação web e desenvolvimento de software
+
+## 📂 Projetos em destaque
+
+Confira meus repositórios para acompanhar meus estudos e projetos acadêmicos.
+
+## 📫 Contato
+
+- GitHub: https://github.com/alancc-new
+
